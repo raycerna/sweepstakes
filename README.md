@@ -31,7 +31,7 @@ Make sure to replace the example user information with your own.
 5. Open Terminal or a command prompt and navigate to the directory where the script is located.
 
 6. Run the script using the following command:
-*python sweepstakes_entry.py*
+*python prepare.py*
 The script will start filling out the form and submitting it at the specified intervals.
 
 # **Disclaimer**
