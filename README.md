@@ -17,7 +17,7 @@
 3. Download Chrome WebDriver: To use Selenium with Chrome, you need to download the Chrome WebDriver executable compatible with your Chrome browser version. You can download it from the official ChromeDriver website: https://sites.google.com/chromium.org/driver/. Make sure to place the Chrome WebDriver executable in your system's PATH or specify its location in the script.
 
 # Usage
-1. Open the script file (sweepstakes_entry.py) in a text editor.
+1. Open the script file (prepare.py) in a text editor.
 
 2. Modify the script with your own information. Replace the example user information in the fill_grabagun_sweepstakes_form function with your own:
 *fill_grabagun_sweepstakes_form("Your First Name", "Your Last Name", "your.email@example.com", "555-555-5555", "Your Address", "Your City", "Your State", "Your Zip Code")*
